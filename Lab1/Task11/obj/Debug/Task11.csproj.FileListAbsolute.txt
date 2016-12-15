@@ -1,0 +1,10 @@
+C:\Users\Gin\Desktop\учёба\Lab1\Task11\bin\Debug\Task11.exe.config
+C:\Users\Gin\Desktop\учёба\Lab1\Task11\bin\Debug\Task11.exe
+C:\Users\Gin\Desktop\учёба\Lab1\Task11\bin\Debug\Task11.pdb
+C:\Users\Gin\Desktop\учёба\Lab1\Task11\obj\Debug\Task11.exe
+C:\Users\Gin\Desktop\учёба\Lab1\Task11\obj\Debug\Task11.pdb
+E:\Lab1\Task11\bin\Debug\Task11.exe.config
+E:\Lab1\Task11\obj\Debug\Task11.exe
+E:\Lab1\Task11\obj\Debug\Task11.pdb
+E:\Lab1\Task11\bin\Debug\Task11.exe
+E:\Lab1\Task11\bin\Debug\Task11.pdb

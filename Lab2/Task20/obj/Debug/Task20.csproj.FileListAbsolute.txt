@@ -1,0 +1,6 @@
+C:\Users\Gin\Desktop\учёба\Lab2\Task20\bin\Debug\Task20.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task20\bin\Debug\Task20.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task20\bin\Debug\Task20.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task20\obj\Debug\Task20.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Desktop\учёба\Lab2\Task20\obj\Debug\Task20.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task20\obj\Debug\Task20.pdb

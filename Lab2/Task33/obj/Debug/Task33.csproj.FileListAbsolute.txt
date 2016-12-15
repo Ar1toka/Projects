@@ -1,0 +1,6 @@
+C:\Users\Gin\Desktop\учёба\Lab2\Task33\bin\Debug\Task33.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task33\bin\Debug\Task33.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task33\bin\Debug\Task33.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task33\obj\Debug\Task33.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Desktop\учёба\Lab2\Task33\obj\Debug\Task33.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task33\obj\Debug\Task33.pdb

@@ -1,0 +1,5 @@
+C:\Users\Gin\Desktop\учёба\Lab2\Task27\bin\Debug\Task27.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task27\bin\Debug\Task27.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task27\bin\Debug\Task27.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task27\obj\Debug\Task27.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task27\obj\Debug\Task27.pdb

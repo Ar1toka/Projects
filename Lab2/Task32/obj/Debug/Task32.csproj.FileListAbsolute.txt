@@ -1,0 +1,5 @@
+C:\Users\Gin\Desktop\учёба\Lab2\Task32\bin\Debug\Task32.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task32\bin\Debug\Task32.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task32\bin\Debug\Task32.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task32\obj\Debug\Task32.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task32\obj\Debug\Task32.pdb

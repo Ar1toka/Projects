@@ -1,0 +1,6 @@
+C:\Users\Gin\Desktop\учёба\Lab2\Task24\bin\Debug\Task24.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task24\bin\Debug\Task24.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task24\bin\Debug\Task24.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task24\obj\Debug\Task24.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Desktop\учёба\Lab2\Task24\obj\Debug\Task24.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task24\obj\Debug\Task24.pdb

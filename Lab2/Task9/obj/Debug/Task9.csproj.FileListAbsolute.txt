@@ -1,0 +1,9 @@
+C:\Users\Gin\Desktop\учёба\Lab2\Task9\bin\Debug\Task9.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task9\bin\Debug\Task9.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task9\bin\Debug\Task9.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task9\obj\Debug\Task9.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Desktop\учёба\Lab2\Task9\obj\Debug\Task9.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task9\obj\Debug\Task9.pdb
+E:\Lab2\Task9\bin\Debug\Task9.exe.config
+E:\Lab2\Task9\obj\Debug\Task9.exe
+E:\Lab2\Task9\obj\Debug\Task9.pdb

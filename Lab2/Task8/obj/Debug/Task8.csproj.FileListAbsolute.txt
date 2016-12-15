@@ -1,0 +1,11 @@
+E:\Lab2\Task8\bin\Debug\Task8.exe.config
+E:\Lab2\Task8\bin\Debug\Task8.exe
+E:\Lab2\Task8\bin\Debug\Task8.pdb
+E:\Lab2\Task8\obj\Debug\Task8.exe
+E:\Lab2\Task8\obj\Debug\Task8.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task8\bin\Debug\Task8.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task8\obj\Debug\Task8.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task8\obj\Debug\Task8.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task8\bin\Debug\Task8.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task8\bin\Debug\Task8.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache

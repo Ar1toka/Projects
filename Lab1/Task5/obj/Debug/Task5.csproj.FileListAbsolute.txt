@@ -1,0 +1,12 @@
+C:\Users\Gin\Desktop\учёба\Lab1\Task5\bin\Debug\Task5.exe.config
+C:\Users\Gin\Desktop\учёба\Lab1\Task5\bin\Debug\Task5.exe
+C:\Users\Gin\Desktop\учёба\Lab1\Task5\bin\Debug\Task5.pdb
+C:\Users\Gin\Desktop\учёба\Lab1\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Desktop\учёба\Lab1\Task5\obj\Debug\Task5.exe
+C:\Users\Gin\Desktop\учёба\Lab1\Task5\obj\Debug\Task5.pdb
+E:\Lab1\Task5\bin\Debug\Task5.exe.config
+E:\Lab1\Task5\obj\Debug\Task5.exe
+E:\Lab1\Task5\obj\Debug\Task5.pdb
+E:\Lab1\Task5\bin\Debug\Task5.exe
+E:\Lab1\Task5\bin\Debug\Task5.pdb
+E:\Lab1\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Gin\Desktop\учёба\Lab3\Task5\bin\Debug\Task5.exe.config
+C:\Users\Gin\Desktop\учёба\Lab3\Task5\bin\Debug\Task5.exe
+C:\Users\Gin\Desktop\учёба\Lab3\Task5\bin\Debug\Task5.pdb
+C:\Users\Gin\Desktop\учёба\Lab3\Task5\obj\Debug\Task5.exe
+C:\Users\Gin\Desktop\учёба\Lab3\Task5\obj\Debug\Task5.pdb
+E:\Lab3\Task5\bin\Debug\Task5.exe.config
+E:\Lab3\Task5\obj\Debug\Task5.exe
+E:\Lab3\Task5\obj\Debug\Task5.pdb
+E:\Lab3\Task5\bin\Debug\Task5.exe
+E:\Lab3\Task5\bin\Debug\Task5.pdb

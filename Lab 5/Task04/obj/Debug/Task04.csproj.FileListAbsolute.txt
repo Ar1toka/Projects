@@ -1,0 +1,8 @@
+E:\Lab 5\Task04\bin\Debug\Task04.exe.config
+E:\Lab 5\Task04\bin\Debug\Task04.exe
+E:\Lab 5\Task04\bin\Debug\Task04.pdb
+E:\Lab 5\Task04\obj\Debug\Task04.exe
+E:\Lab 5\Task04\obj\Debug\Task04.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task04\bin\Debug\Task04.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task04\obj\Debug\Task04.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task04\obj\Debug\Task04.pdb

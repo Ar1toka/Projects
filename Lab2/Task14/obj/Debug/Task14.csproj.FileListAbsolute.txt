@@ -1,0 +1,5 @@
+C:\Users\Gin\Desktop\учёба\Lab2\Task14\bin\Debug\Task14.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task14\bin\Debug\Task14.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task14\bin\Debug\Task14.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task14\obj\Debug\Task14.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task14\obj\Debug\Task14.pdb

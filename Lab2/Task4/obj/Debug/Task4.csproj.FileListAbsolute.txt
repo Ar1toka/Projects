@@ -1,0 +1,10 @@
+E:\Lab2\Task4\bin\Debug\Task4.exe.config
+E:\Lab2\Task4\bin\Debug\Task4.exe
+E:\Lab2\Task4\bin\Debug\Task4.pdb
+E:\Lab2\Task4\obj\Debug\Task4.exe
+E:\Lab2\Task4\obj\Debug\Task4.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task4\bin\Debug\Task4.exe.config
+C:\Users\Gin\Desktop\учёба\Lab2\Task4\obj\Debug\Task4.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task4\obj\Debug\Task4.pdb
+C:\Users\Gin\Desktop\учёба\Lab2\Task4\bin\Debug\Task4.exe
+C:\Users\Gin\Desktop\учёба\Lab2\Task4\bin\Debug\Task4.pdb
