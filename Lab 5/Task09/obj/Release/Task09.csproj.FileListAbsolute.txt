@@ -1,0 +1,5 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task09\bin\Release\Task09.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task09\bin\Release\Task09.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task09\bin\Release\Task09.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task09\obj\Release\Task09.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task09\obj\Release\Task09.pdb

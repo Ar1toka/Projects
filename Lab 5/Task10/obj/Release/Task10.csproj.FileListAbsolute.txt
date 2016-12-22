@@ -1,0 +1,2 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task10\bin\Release\Task10.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task10\obj\Release\Task10.csprojResolveAssemblyReference.cache

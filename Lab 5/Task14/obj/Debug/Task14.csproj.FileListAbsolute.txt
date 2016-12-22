@@ -1,0 +1,6 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task14\bin\Debug\Task14.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task14\bin\Debug\Task14.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task14\bin\Debug\Task14.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task14\obj\Debug\Task14.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task14\obj\Debug\Task14.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task14\obj\Debug\Task14.pdb

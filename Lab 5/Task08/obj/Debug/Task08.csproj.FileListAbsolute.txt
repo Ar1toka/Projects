@@ -1,0 +1,6 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task08\bin\Debug\Task08.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task08\bin\Debug\Task08.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task08\bin\Debug\Task08.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task08\obj\Debug\Task08.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task08\obj\Debug\Task08.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task08\obj\Debug\Task08.pdb

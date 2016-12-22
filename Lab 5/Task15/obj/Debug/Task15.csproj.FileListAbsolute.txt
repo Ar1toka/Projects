@@ -1,0 +1,5 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task15\bin\Debug\Task15.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task15\bin\Debug\Task15.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task15\bin\Debug\Task15.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task15\obj\Debug\Task15.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task15\obj\Debug\Task15.pdb

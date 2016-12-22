@@ -1,0 +1,6 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task17\bin\Debug\Task17.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task17\bin\Debug\Task17.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task17\bin\Debug\Task17.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task17\obj\Debug\Task17.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task17\obj\Debug\Task17.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task17\obj\Debug\Task17.pdb

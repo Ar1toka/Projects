@@ -1,0 +1,6 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task22\bin\Debug\Task22.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task22\bin\Debug\Task22.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task22\bin\Debug\Task22.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task22\obj\Debug\Task22.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task22\obj\Debug\Task22.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task22\obj\Debug\Task22.pdb

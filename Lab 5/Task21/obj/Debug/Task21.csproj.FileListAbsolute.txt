@@ -1,0 +1,6 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task21\bin\Debug\Task21.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task21\bin\Debug\Task21.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task21\bin\Debug\Task21.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task21\obj\Debug\Task21.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task21\obj\Debug\Task21.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab 5\Task21\obj\Debug\Task21.pdb
