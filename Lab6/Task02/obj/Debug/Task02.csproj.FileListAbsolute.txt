@@ -3,3 +3,8 @@ C:\Users\Gin\Desktop\учёба\Lab6\Task02\bin\Debug\Task02.exe
 C:\Users\Gin\Desktop\учёба\Lab6\Task02\bin\Debug\Task02.pdb
 C:\Users\Gin\Desktop\учёба\Lab6\Task02\obj\Debug\Task02.exe
 C:\Users\Gin\Desktop\учёба\Lab6\Task02\obj\Debug\Task02.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab6\Task02\bin\Debug\Task02.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab6\Task02\obj\Debug\Task02.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab6\Task02\obj\Debug\Task02.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab6\Task02\bin\Debug\Task02.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab6\Task02\bin\Debug\Task02.pdb
