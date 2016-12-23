@@ -10,36 +10,46 @@ namespace Task09
     {
         static void Main(string[] args)
         {
-            const double PI = 3.1416;
-            beginning:
             Console.Write("Введите площадь круга: ");
             double a = double.Parse(Console.ReadLine());
-            if (a <= 0)
+            while (a <= 0)
             {
                 Console.WriteLine("Введите число больше 0");
-                goto beginning;
+                Console.Write("Введите площадь круга: ");
+                a = double.Parse(Console.ReadLine());
             }
-            beginning2:
+
             Console.Write("Введите площадь квадрата: ");
             double b = double.Parse(Console.ReadLine());
-            if (b <= 0)
+            while (b <= 0)
             {
                 Console.WriteLine("Введите число больше 0");
-                goto beginning2;
+                Console.Write("Введите площадь квадрата: ");
+                b = double.Parse(Console.ReadLine());
             }
-            double c = (Math.Sqrt(a/PI)*2);
+            bool e = task9(a, b);
+            if (e)//==true
+                Console.WriteLine("Круг уместится в квадрате");
+            if (!e)
+                Console.WriteLine("Круг не уместится в квадрате");
+
+            Console.ReadLine();
+        }
+        public static bool task9(double a, double b)
+        {
+            double c = (Math.Sqrt(a / Math.PI) * 2);
             double d = Math.Sqrt(b);
 
-            if ( d > c)
-            {
-                Console.WriteLine("Круг уместится в квадрате");
-            }
-            else
-            {
-                Console.WriteLine("Круг не уместится в квадрате");
-            }
-           
-            Console.ReadLine();
+            return d > c;
+            //if ( d > c)
+            //{
+            //    return true;
+            //}
+            //else
+            //{
+            //    return false;
+            //}
+
         }
     }
 }

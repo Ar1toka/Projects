@@ -26,7 +26,7 @@ namespace Task13
             }
             if ((a <= -3) || (a >= 5))
             {
-                x = ;
+
             }
             if ((c == b) || (b == a) || (c == a))
             {
