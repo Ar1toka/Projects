@@ -1,6 +1,0 @@
-C:\Users\Gin\Desktop\учёба\Lab1\Task8\bin\Debug\Task8.exe.config
-C:\Users\Gin\Desktop\учёба\Lab1\Task8\bin\Debug\Task8.exe
-C:\Users\Gin\Desktop\учёба\Lab1\Task8\bin\Debug\Task8.pdb
-C:\Users\Gin\Desktop\учёба\Lab1\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
-C:\Users\Gin\Desktop\учёба\Lab1\Task8\obj\Debug\Task8.exe
-C:\Users\Gin\Desktop\учёба\Lab1\Task8\obj\Debug\Task8.pdb
