@@ -8,3 +8,8 @@ E:\Lab1\Task3\obj\Debug\Task3.exe
 E:\Lab1\Task3\obj\Debug\Task3.pdb
 E:\Lab1\Task3\bin\Debug\Task3.exe
 E:\Lab1\Task3\bin\Debug\Task3.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab1\Task3\bin\Debug\Task3.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab1\Task3\obj\Debug\Task3.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab1\Task3\obj\Debug\Task3.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab1\Task3\bin\Debug\Task3.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab1\Task3\bin\Debug\Task3.pdb

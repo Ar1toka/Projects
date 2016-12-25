@@ -13,19 +13,21 @@ namespace Task2
             string a = "Мы стремимся к ";
             string str;
             str = Console.ReadLine();
-            //string b = "знаниям";
-            //string c = "цели";
-            //string d = "результату";
-            //string e = "власти";
-            //string f = "богатству";
-            //string g = "мечте";
-            Console.WriteLine(a + str);
-            //Console.WriteLine(a + c);
-            //Console.WriteLine(a + d);
-            //Console.WriteLine(a + e);
-            //Console.WriteLine(a + f);
-            //Console.WriteLine(a + g);
+            string b = Task2(a, str);
+
+            Console.WriteLine(b);
+            Console.WriteLine(Task2(a, "знаниям"));
+            Console.WriteLine(Task2(a, "цели"));
+            Console.WriteLine(Task2(a, "результату"));
+            Console.WriteLine(Task2(a, "власти"));
+            Console.WriteLine(Task2(a, "богатству"));
+            Console.WriteLine(Task2(a, "мечте"));
+
             Console.ReadLine();
+        }
+        public static string Task2(string a, string str)
+        {
+            return a + str;
         }
     }
 }

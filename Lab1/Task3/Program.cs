@@ -11,12 +11,12 @@ namespace Task3
         static void Main(string[] args)
         {
             string a = " нас не остановят!";
-            //string b = "трудности";
-            //string c = "загадки";
-            //string d = "сложные задачи";
-            //string e = "враги";
-            //string f = "баги";
-            //string g = "фэйлы";
+            //string b = "трудности"
+            //string c = "загадки"
+            //string d = "сложные задачи"
+            //string e = "враги"
+            //string f = "баги"
+            //string g = "фэйлы"
             //Console.WriteLine(b + a);
             //Console.WriteLine(c + a);
             //Console.WriteLine(d + a);
@@ -25,8 +25,19 @@ namespace Task3
             //Console.WriteLine(g + a);
             string b;
             b = Console.ReadLine();
-            Console.WriteLine(b + a);
+            String c = Task3(b, a);
+            Console.WriteLine(c);
+            Console.WriteLine(Task3("трудности", a));
+            Console.WriteLine(Task3("загадки", a));
+            Console.WriteLine(Task3("сложные задачи", a));
+            Console.WriteLine(Task3("враги", a));
+            Console.WriteLine(Task3("баги", a));
+            Console.WriteLine(Task3("фэйлы", a));
             Console.ReadLine();
+        }
+        public static string Task3(string b, string a)
+        {
+            return b + a;
         }
     }
 }
