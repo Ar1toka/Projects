@@ -1,6 +1,0 @@
-C:\Users\Gin\Desktop\учёба\Lab1\Task6\bin\Debug\Task6.exe.config
-C:\Users\Gin\Desktop\учёба\Lab1\Task6\bin\Debug\Task6.exe
-C:\Users\Gin\Desktop\учёба\Lab1\Task6\bin\Debug\Task6.pdb
-C:\Users\Gin\Desktop\учёба\Lab1\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
-C:\Users\Gin\Desktop\учёба\Lab1\Task6\obj\Debug\Task6.exe
-C:\Users\Gin\Desktop\учёба\Lab1\Task6\obj\Debug\Task6.pdb
