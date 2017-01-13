@@ -10,10 +10,9 @@ namespace Task7
     {
         static void Main(string[] args)
         {
-            const double PI = 3.1416;
             Console.Write("Введите угол в градусах: ");
             double a = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Введённый угол в радианах = " + string.Format("{0:F4}",(a * PI) / 180));
+            Console.WriteLine("Введённый угол в радианах = " + string.Format("{0:F4}",(a * Math.PI) / 180));
             Console.ReadLine();
         }
     }
