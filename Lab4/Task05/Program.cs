@@ -10,6 +10,7 @@ namespace Task05
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

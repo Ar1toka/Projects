@@ -21,7 +21,7 @@ namespace Task03
             while (a <= 0)
             {
                 Console.WriteLine("Значение A должно быть больше 0");
-                Console.Write("Введите значение H: ");
+                Console.Write("Введите значение А: ");
                 a = double.Parse(Console.ReadLine());
 
 
@@ -30,8 +30,8 @@ namespace Task03
             double l = double.Parse(Console.ReadLine());
             while (l <= (a/2))
             {
-                Console.WriteLine("Значение W должно быть больше 0");
-                Console.Write("Введите значение W: ");
+                Console.WriteLine("Значение L должно быть больше 0");
+                Console.Write("Введите значение L: ");
                 l = double.Parse(Console.ReadLine());
 
             }
