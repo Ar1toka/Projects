@@ -10,7 +10,7 @@ namespace Task04
     {
         static void Main(string[] args)
         {
-        beginning:
+
             Console.Write("Введите значение A: ");
             int a = int.Parse(Console.ReadLine());
             Console.Write("Введите значение B: ");
@@ -18,7 +18,8 @@ namespace Task04
             if (a > b)
             {
                 Console.WriteLine("Значение А не может превышать значение В");
-                goto beginning;
+                Console.Write("Введите значение A: ");
+                a = int.Parse(Console.ReadLine());
             }
             for (int i = b; i > a -1 ; i--)
                 Console.WriteLine(i);
