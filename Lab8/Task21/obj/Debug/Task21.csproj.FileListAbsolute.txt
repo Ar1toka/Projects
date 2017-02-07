@@ -1,0 +1,6 @@
+E:\Projects\Lab8\Task21\bin\Debug\Task21.exe.config
+E:\Projects\Lab8\Task21\bin\Debug\Task21.exe
+E:\Projects\Lab8\Task21\bin\Debug\Task21.pdb
+E:\Projects\Lab8\Task21\obj\Debug\Task21.csprojResolveAssemblyReference.cache
+E:\Projects\Lab8\Task21\obj\Debug\Task21.exe
+E:\Projects\Lab8\Task21\obj\Debug\Task21.pdb
