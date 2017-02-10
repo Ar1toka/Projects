@@ -14,11 +14,24 @@ namespace Task2
             string source = "abcdefwxyz";
                     Console.WriteLine("Введите значение S(из представленных букв - abcdefwxyz): ");
             string s = Console.ReadLine();
+            int index = source.IndexOf(s);
+            while (index == -1)
+            {
+                Console.WriteLine("Вы ввели неверный символ!");
+                Console.WriteLine("Введите значение S(из представленных букв - abcdefwxyz): ");
+                s = Console.ReadLine();
+                index = source.IndexOf(s);
+            }
             Console.WriteLine("Введите значение M(из представленных букв - abcdefwxyz): ");
             string m = Console.ReadLine();
-            Console.WriteLine(string.Compare(s, source));
-            int index = source.IndexOf(s);
             int index2 = source.IndexOf(m);
+            while (index2 == -1)
+            {
+                Console.WriteLine("Вы ввели неверный символ!");
+                Console.WriteLine("Введите значение M(из представленных букв - abcdefwxyz): ");
+                m = Console.ReadLine();
+                index2 = source.IndexOf(m);
+            }
             //char[] y1 = source.ToCharArray();
             if (index < index2)
  

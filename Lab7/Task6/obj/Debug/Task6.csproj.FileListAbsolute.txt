@@ -1,0 +1,6 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task6\bin\Debug\Task6.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task6\bin\Debug\Task6.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task6\bin\Debug\Task6.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task6\obj\Debug\Task6.csprojResolveAssemblyReference.cache
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task6\obj\Debug\Task6.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task6\obj\Debug\Task6.pdb

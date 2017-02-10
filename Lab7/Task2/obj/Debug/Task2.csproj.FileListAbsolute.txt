@@ -3,3 +3,9 @@ E:\Projects\Lab7\Task2\bin\Debug\Task2.exe
 E:\Projects\Lab7\Task2\bin\Debug\Task2.pdb
 E:\Projects\Lab7\Task2\obj\Debug\Task2.exe
 E:\Projects\Lab7\Task2\obj\Debug\Task2.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task2\bin\Debug\Task2.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task2\obj\Debug\Task2.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task2\obj\Debug\Task2.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task2\bin\Debug\Task2.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task2\bin\Debug\Task2.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task2\obj\Debug\Task2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task9\bin\Debug\Task9.exe.config
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task9\bin\Debug\Task9.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task9\bin\Debug\Task9.pdb
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task9\obj\Debug\Task9.exe
+C:\Users\Gin\Documents\Visual Studio 2013\Projects\Lab7\Task9\obj\Debug\Task9.pdb
