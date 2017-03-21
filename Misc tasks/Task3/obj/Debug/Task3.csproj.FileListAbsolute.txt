@@ -1,0 +1,6 @@
+E:\Projects\Misc tasks\Task3\bin\Debug\Task3.exe.config
+E:\Projects\Misc tasks\Task3\bin\Debug\Task3.exe
+E:\Projects\Misc tasks\Task3\bin\Debug\Task3.pdb
+E:\Projects\Misc tasks\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+E:\Projects\Misc tasks\Task3\obj\Debug\Task3.exe
+E:\Projects\Misc tasks\Task3\obj\Debug\Task3.pdb

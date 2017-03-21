@@ -17,7 +17,7 @@ namespace Task7
             int index = source.IndexOf(s);
             while (index == -1)
             {
-                Console.WriteLine("Увы, ничего не вышло");
+                Console.WriteLine("Увы, ничего не вышло, символы были не соседние - строка не изменилась.");
                 Console.WriteLine("Введите значение S(из представленных букв - abcdefwxyz): ");
                 s = Console.ReadLine();
                 index = source.IndexOf(s);

@@ -1,0 +1,5 @@
+E:\Projects\MyClasses\MyClasses\bin\Debug\MyClasses.dll
+E:\Projects\MyClasses\MyClasses\bin\Debug\MyClasses.pdb
+E:\Projects\MyClasses\MyClasses\obj\Debug\MyClasses.csprojResolveAssemblyReference.cache
+E:\Projects\MyClasses\MyClasses\obj\Debug\MyClasses.dll
+E:\Projects\MyClasses\MyClasses\obj\Debug\MyClasses.pdb

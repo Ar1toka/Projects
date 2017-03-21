@@ -1,0 +1,5 @@
+E:\Projects\Lab9\Task03\bin\Debug\Task03.exe.config
+E:\Projects\Lab9\Task03\bin\Debug\Task03.exe
+E:\Projects\Lab9\Task03\bin\Debug\Task03.pdb
+E:\Projects\Lab9\Task03\obj\Debug\Task03.exe
+E:\Projects\Lab9\Task03\obj\Debug\Task03.pdb

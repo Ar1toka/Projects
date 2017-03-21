@@ -1,0 +1,6 @@
+E:\Projects\Lab9\Task02\bin\Debug\Task02.exe.config
+E:\Projects\Lab9\Task02\bin\Debug\Task02.exe
+E:\Projects\Lab9\Task02\bin\Debug\Task02.pdb
+E:\Projects\Lab9\Task02\obj\Debug\Task02.csprojResolveAssemblyReference.cache
+E:\Projects\Lab9\Task02\obj\Debug\Task02.exe
+E:\Projects\Lab9\Task02\obj\Debug\Task02.pdb

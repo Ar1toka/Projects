@@ -10,6 +10,16 @@ namespace Task08
     {
         static void Main(string[] args)
         {
+            int a = 100;
+            int b = 0;
+            for (int i = 0; i < 401; i++)
+            {
+                b = b + a;
+                a++;
+
+            }
+            Console.WriteLine(b);
+            Console.ReadLine();
         }
     }
 }

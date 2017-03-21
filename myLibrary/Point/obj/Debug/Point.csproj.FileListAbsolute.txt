@@ -1,0 +1,11 @@
+E:\Projects\myLibrary\Point\bin\Debug\Point.exe.config
+E:\Projects\myLibrary\Point\obj\Debug\Point.csprojResolveAssemblyReference.cache
+E:\Projects\myLibrary\Point\obj\Debug\Point.fmPoint.resources
+E:\Projects\myLibrary\Point\obj\Debug\Point.Properties.Resources.resources
+E:\Projects\myLibrary\Point\obj\Debug\Point.csproj.GenerateResource.Cache
+E:\Projects\myLibrary\Point\bin\Debug\Point.exe
+E:\Projects\myLibrary\Point\bin\Debug\Point.pdb
+E:\Projects\myLibrary\Point\bin\Debug\myLibrary.dll
+E:\Projects\myLibrary\Point\bin\Debug\myLibrary.pdb
+E:\Projects\myLibrary\Point\obj\Debug\Point.exe
+E:\Projects\myLibrary\Point\obj\Debug\Point.pdb

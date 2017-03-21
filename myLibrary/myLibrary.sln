@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myLibrary", "myLibrary\myLibrary.csproj", "{F7F83AB6-0ADA-40F5-A7DD-DA069377A53B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInherit", "WindowsFormsApplication1\TestInherit.csproj", "{922B53F0-9B13-4092-A6B9-EDD9FE1100DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Point", "Point\Point.csproj", "{851E4331-38F3-4537-8E71-E59D24F67037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7F83AB6-0ADA-40F5-A7DD-DA069377A53B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F83AB6-0ADA-40F5-A7DD-DA069377A53B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F83AB6-0ADA-40F5-A7DD-DA069377A53B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F83AB6-0ADA-40F5-A7DD-DA069377A53B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{922B53F0-9B13-4092-A6B9-EDD9FE1100DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922B53F0-9B13-4092-A6B9-EDD9FE1100DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922B53F0-9B13-4092-A6B9-EDD9FE1100DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922B53F0-9B13-4092-A6B9-EDD9FE1100DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{851E4331-38F3-4537-8E71-E59D24F67037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{851E4331-38F3-4537-8E71-E59D24F67037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{851E4331-38F3-4537-8E71-E59D24F67037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{851E4331-38F3-4537-8E71-E59D24F67037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

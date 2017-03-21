@@ -29,12 +29,12 @@ namespace Task9
             string text = a;
 
             string[] words = text.Split(new char[] { ',' });
-            int c = 0;
-            foreach (string s in words)
-            {
-                c++;
-            }
-            Console.WriteLine("Количество слов: " +c);
+            //int c = 0;
+            //foreach (string s in words)
+            //{
+            //    c++;
+            //}
+            Console.WriteLine("Количество слов: " + words.Length);
             Console.ReadLine();
         }
     }

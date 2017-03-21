@@ -34,15 +34,17 @@ namespace Task3
             }
             if (index < index2)
             {
-                source = source.Substring(index+1);
                 a = source.Length - index2;
-                source = source.Substring(0, source.Length - a-1);
+                source = source.Substring(index+1);
+                
+                source = source.Substring(0, source.Length - a);
             }
             if (index > index2)
             {
-                source = source.Substring(index2+1);
                 a = source.Length - index;
-                source = source.Substring(0, source.Length - a-1);
+                source = source.Substring(index2+1);
+
+                source = source.Substring(0, source.Length - a);
               
             }
             Console.WriteLine(source);

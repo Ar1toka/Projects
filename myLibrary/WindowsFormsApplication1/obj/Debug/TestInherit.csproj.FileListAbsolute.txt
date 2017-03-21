@@ -1,0 +1,11 @@
+E:\Projects\myLibrary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Projects\myLibrary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Projects\myLibrary\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Projects\myLibrary\WindowsFormsApplication1\bin\Debug\myLibrary.dll
+E:\Projects\myLibrary\WindowsFormsApplication1\bin\Debug\myLibrary.pdb
+E:\Projects\myLibrary\WindowsFormsApplication1\obj\Debug\TestInherit.csprojResolveAssemblyReference.cache
+E:\Projects\myLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.fmTestInherit.resources
+E:\Projects\myLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Projects\myLibrary\WindowsFormsApplication1\obj\Debug\TestInherit.csproj.GenerateResource.Cache
+E:\Projects\myLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Projects\myLibrary\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

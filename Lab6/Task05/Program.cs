@@ -10,18 +10,22 @@ namespace Task05
     {
         static void Main(string[] args)
         {
-            Console.Write("Введите значение A: ");
+            Console.Write("Введите значение A (больше единицы): ");
             int a = int.Parse(Console.ReadLine());
-            Console.Write("Введите значение B: ");
-            int b = int.Parse(Console.ReadLine());
-            if (a > b)
+            Console.Write("Введите символ B: ");
+            string b = Console.ReadLine();
+            while (a < 1)
             {
-                Console.WriteLine("Значение А не может превышать значение В");
-                Console.Write("Введите значение A: ");
+                Console.WriteLine("Значение неверное!");
+                Console.Write("Введите значение A(больше единицы): ");
                 a = int.Parse(Console.ReadLine());
             }
-            for (int i = b; i > a - 1; i--)
-                Console.WriteLine(i);
+            Console.Write("\"");
+            for (int i = 0; i < a; i++)
+            {
+                Console.Write(b, i);
+            }
+            Console.Write("\"");
             Console.ReadLine();
         }
     }

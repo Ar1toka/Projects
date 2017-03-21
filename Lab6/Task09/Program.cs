@@ -10,6 +10,8 @@ namespace Task09
     {
         static void Main(string[] args)
         {
+            Console.Write("Введите значение A (от -100 до до 500): ");
+            int a = int.Parse(Console.ReadLine());
         }
     }
 }

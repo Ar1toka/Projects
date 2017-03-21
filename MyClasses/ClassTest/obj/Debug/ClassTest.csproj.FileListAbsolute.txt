@@ -1,0 +1,11 @@
+E:\Projects\MyClasses\ClassTest\bin\Debug\ClassTest.exe.config
+E:\Projects\MyClasses\ClassTest\bin\Debug\ClassTest.exe
+E:\Projects\MyClasses\ClassTest\bin\Debug\ClassTest.pdb
+E:\Projects\MyClasses\ClassTest\bin\Debug\MyClasses.dll
+E:\Projects\MyClasses\ClassTest\bin\Debug\MyClasses.pdb
+E:\Projects\MyClasses\ClassTest\obj\Debug\ClassTest.csprojResolveAssemblyReference.cache
+E:\Projects\MyClasses\ClassTest\obj\Debug\ClassTest.Form1.resources
+E:\Projects\MyClasses\ClassTest\obj\Debug\ClassTest.Properties.Resources.resources
+E:\Projects\MyClasses\ClassTest\obj\Debug\ClassTest.csproj.GenerateResource.Cache
+E:\Projects\MyClasses\ClassTest\obj\Debug\ClassTest.exe
+E:\Projects\MyClasses\ClassTest\obj\Debug\ClassTest.pdb
